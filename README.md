@@ -33,7 +33,7 @@ Markdown cells were used to assist in walking through the thought process for in
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://www.medium.com).
+The main findings of the code can be found at the post available [here](https://sites.google.com/view/jenniferh/udacity/project-1-crisp-dm).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
